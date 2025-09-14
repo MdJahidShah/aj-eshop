@@ -4,8 +4,8 @@
     ----------------------------------------------------*/
     function ajsquare_add_documentation_menu() {
         add_menu_page(
-            __('AJ SQUARE', 'aj-eshop'), // Page title
-            __('AJ SQUARE', 'aj-eshop'), // Menu title
+            __('AJ eShop', 'aj-eshop'), // Page title
+            __('AJ eShop', 'aj-eshop'), // Menu title
             'manage_options', // Capability required to access the page
             'aj-eshop-docs', // Menu slug
             'ajsquare_theme_docs', // Callback function to render the page content
@@ -20,9 +20,9 @@
         <div class="ajsquareth-wrap">
             <div class="ajsquareth-row">
                 <div class="ajsquareth-paragraph ajsquareth_common">
-                    <span class="fs-1"><?php _e('AJ Square Theme Documentation', 'aj-eshop'); ?></span>
+                    <span class="fs-1"><?php _e('AJ eShop Theme Documentation', 'aj-eshop'); ?></span>
                     <br><br>
-                    <p><?php _e('Welcome to the AJ Square theme documentation. Here you will find all the information you need to set up and customize your theme.', 'aj-eshop'); ?></p>
+                    <p><?php _e('Welcome to the AJ eShop theme documentation. Here you will find all the information you need to set up and customize your theme.', 'aj-eshop'); ?></p>
                     <br>
                     <span class="fs-2"><?php _e('Installation Process', 'aj-eshop'); ?></span>
                     <br>
@@ -63,9 +63,11 @@
                     <p><img class="auth-img" src="<?php echo esc_url( get_template_directory_uri() . '/assets/images/author.png' ); ?>" alt="Jahid Shah"></p>
                     <p>I'm <strong>Jahid Shah</strong>, a front-end developer with specialized skills in WordPress theme development and WordPress Security Expert, who passionate about creating error-free, secure websites and achieving 100% client satisfaction. I have a drive for learning and sharing knowledge as widely as possible. Solving real-world problems is my passion.</p>
                     <br>
+                    <a href="https://jahidshah.com/contact-me/" target="_blank" rel="noopener noreferrer" class="btn btn-primary text-white" style="background-color: #068a62ff;">Support</a>
+                    <br>
                     <span class="fs-3" id="title">Watch Help Video</span>
                     <br>
-                    <p><a href="" target="_blank" class="btn">Watch On YouTube</a></p>
+                    <p><a href="https://www.youtube.com/@JahidShahWP/search?query=aj%20eshop" target="_blank" class="btn">Watch On YouTube</a></p>
                 </div>
             </div>
         </div>
