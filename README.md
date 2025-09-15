@@ -1,18 +1,18 @@
-=== AJ eShop ===
-Contributors: jahidshah
-Tags: blog, personal-portfolio, custom-logo, custom-menu, full-width-template, one-column, two-columns, left-sidebar, right-sidebar, threaded-comments, translation-ready, featured-images, block-styles, editor-style, rtl-language-support  
-Requires at least: 5.0  
-Tested up to: 6.8  
-Requires PHP: 7.4  
-Stable tag: 1.0.0  
-License: GPLv2 or later  
-License URI: https://www.gnu.org/licenses/gpl-2.0.html  
+** AJ eShop **
+* Contributors: jahidshah
+* Tags: blog, personal-portfolio, custom-logo, custom-menu, full-width-template, one-column, two-columns, left-sidebar, right-sidebar, threaded-comments, translation-ready, featured-images, block-styles, editor-style, rtl-language-support  
+* Requires at least: 5.0  
+* Tested up to: 6.8  
+* Requires PHP: 7.4  
+* Stable tag: 1.0.0  
+* License: GPLv2 or later  
+* License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
 # AJ eShop
 
 AJ eShop is a lightweight and customizable WordPress theme built specifically for **eCommerce stores**.
 
-## == Description ==
+## Description 
 
 AJ eShop is a clean, modern, and responsive WordPress theme designed for **online shops, small businesses, and eCommerce websites**.
 
@@ -24,7 +24,7 @@ Whether you’re selling **fashion, electronics, gifts, or digital products**, A
 
 ![AJ eShop Passed Tests](https://github.com/mdjahidshah/aj-eshop/assets/images/aj-eshop-test-result.png)
 
-## == Core Features ==
+## Core Features 
 
 * **WooCommerce ready** – product pages, cart, and checkout templates.
 * Responsive design optimized for desktops, tablets, and mobiles.
@@ -36,7 +36,7 @@ Whether you’re selling **fashion, electronics, gifts, or digital products**, A
 * Built with WordPress block patterns and global styles in mind.
 
 
-## == Installation ==
+## Installation 
 
 Since AJ eShop is distributed via **GitHub**, you’ll need to download and install it manually.
 
@@ -55,43 +55,43 @@ Since AJ eShop is distributed via **GitHub**, you’ll need to download and inst
 3. Upload the folder to `/wp-content/themes/` on your server.
 4. Go to your WordPress dashboard and activate the theme under **Appearance > Themes**.
 
-## == Frequently Asked Questions ==
+## Frequently Asked Questions 
 
-### = Is AJ eShop compatible with WooCommerce? =
+### Is AJ eShop compatible with WooCommerce?
 
 Yes, AJ eShop is fully integrated with WooCommerce for eCommerce functionality.
 
-### = Can I customize it with Elementor? =
+### Can I customize it with Elementor?
 
 Absolutely. AJ eShop works seamlessly with Elementor and Gutenberg.
 
-### = Is AJ eShop translation-ready? =
+### Is AJ eShop translation-ready?
 
 Yes. The theme includes `.pot` files and supports **RTL languages**.
 
-### = Can I use AJ eShop for non-eCommerce websites? =
+### Can I use AJ eShop for non-eCommerce websites?
 
 Yes. While it’s designed for online shops, AJ eShop is flexible enough for blogs, business websites, or portfolios.
 
-== Changelog ==
+## Changelog 
 
-= 1.0.0 =
+### 1.0.0
 * Initial release.
 * Gutenberg and Elementor compatible.
 * Fully responsive layout and RTL-ready.
 
-= 0.5.0 =
+### 0.5.0
 * Security fix and enhanced thumbnail image rendering.
 
-== Upgrade Notice ==
+## Upgrade Notice 
 
-= 1.0.0 =
+### 1.0.0
 The first stable release. Includes all core features and full Gutenberg support.
 
-= 0.5.0 =
+### 0.5.0
 Important security update. Please upgrade to keep your site safe and optimized.
 
-== Resources ==
+## Resources 
 
 AJ eShop uses the following resources, all properly licensed:
 
@@ -107,7 +107,7 @@ AJ eShop uses the following resources, all properly licensed:
 - Based on Underscores framework by Automattic – https://underscores.me/ (GPLv2 or later)
 
 
-== Third Party Resources ==
+## Third Party Resources 
 
 AJ eShop uses the following third-party resources, which are bundled locally in the theme for optimal performance:
 
@@ -125,11 +125,11 @@ AJ eShop uses the following third-party resources, which are bundled locally in 
 
 All third-party libraries are open-source and included with respect to their individual licenses.
 
-## == Donate ==  
+## Donate   
 If you’d like to support the development of AJ eShop, you can buy me a coffee here:  
 👉 [https://www.buymeacoffee.com/jahidshah](https://www.buymeacoffee.com/jahidshah)
 
-## == License ==
+## License 
 
 AJ eShop is released under the [GNU General Public License v2 or later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
 
