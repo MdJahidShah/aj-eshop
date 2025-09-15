@@ -4,7 +4,7 @@
 * Requires at least: 5.0  
 * Tested up to: 6.8  
 * Requires PHP: 7.4  
-* Stable tag: 1.0.0  
+* Stable tag: 1.0.1
 * License: GPLv2 or later  
 * License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -34,6 +34,12 @@ Whether you’re selling **fashion, electronics, gifts, or digital products**, A
 * Supports custom logos, menus, and header/footer options.
 * Translation-ready with **RTL support**.
 * Built with WordPress block patterns and global styles in mind.
+
+## Requirement
+
+To work with this theme, Must have installed and activated- 
+* [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+* [AJx Filter for WooCommerce](https://wordpress.org/plugins/ajx-filter-for-woo/)
 
 
 ## Installation 
