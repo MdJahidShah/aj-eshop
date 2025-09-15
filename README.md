@@ -127,7 +127,7 @@ All third-party libraries are open-source and included with respect to their ind
 
 ## Donate   
 If you’d like to support the development of AJ eShop, you can buy me a coffee here:  
-👉 [https://www.buymeacoffee.com/jahidshah](https://www.buymeacoffee.com/jahidshah)
+👉 [Support Developer](https://www.buymeacoffee.com/jahidshah)
 
 ## License 
 
