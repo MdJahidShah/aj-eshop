@@ -22,7 +22,7 @@ AJ eShop also supports the **Gutenberg block editor** and popular page builders 
 
 Whether you’re selling **fashion, electronics, gifts, or digital products**, AJ eShop provides a flexible foundation for your store.
 
-![AJ eShop Passed Tests](https://github.com/mdjahidshah/aj-eshop/assets/images/aj-eshop-test-result.png)
+![AJ eShop Passed Tests](https://github.com/MdJahidShah/aj-eshop/blob/main/assets/images/aj-eshop-test-result.png?raw=true)
 
 ## Core Features 
 
@@ -48,7 +48,7 @@ Since AJ eShop is distributed via **GitHub**, you’ll need to download and inst
 
 ### Manual Installation via WordPress Dashboard:
 
-1. Go to the [AJ eShop GitHub Releases](https://github.com/mdjahidshah/aj-eshop/latest).
+1. Go to the [AJ eShop GitHub Releases](https://github.com/mdjahidshah/aj-eshop/releases/latest/download/aj-square.zip).
 2. Download the **ZIP file** of the latest release.
 3. In your WordPress dashboard, go to **Appearance > Themes > Add New > Upload Theme**.
 4. Upload the downloaded ZIP file.
@@ -56,7 +56,7 @@ Since AJ eShop is distributed via **GitHub**, you’ll need to download and inst
 
 ### Manual Installation via FTP:
 
-1. Download the [AJ eShop theme ZIP file](https://github.com/mdjahidshah/aj-eshop/latest).
+1. Download the [AJ eShop theme ZIP file](https://github.com/mdjahidshah/aj-eshop/releases/latest/download/aj-square.zip).
 2. Unzip the file on your local computer.
 3. Upload the folder to `/wp-content/themes/` on your server.
 4. Go to your WordPress dashboard and activate the theme under **Appearance > Themes**.
