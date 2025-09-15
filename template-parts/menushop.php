@@ -33,7 +33,7 @@
                     </div>
                 </div>
                 <div class="header-cart">
-                    <a href="<?php echo esc_url( home_url( '/cart' ) ); ?>"><i class="fas fa-shopping-cart"></i> Cart</a>
+                    <a href="<?php echo esc_url( home_url( '/cart' ) ); ?>"><i class="bi bi-cart"></i> Cart</a>
                 </div>
                 <div class="header-account">
                     <a href="<?php echo esc_url( home_url( '/my-account' ) ); ?>" class="custom-logincss">

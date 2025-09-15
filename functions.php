@@ -104,3 +104,10 @@ function custom_full_description_tab_callback() {
     echo '<h2>Description</h2>';
     echo wpautop( $post->post_content );
 }
+
+add_action( 'template_redirect', function() {
+    if ( is_shop() || is_product_category() ) {
+        wc_get_template( 'archive-product.php' ); // Force your custom template
+        exit;
+    }
+});

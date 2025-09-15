@@ -1,6 +1,6 @@
 
         <!--Footer Section-->
-        <footer class="container-fluid px-5 footer-section pt-5 pb-3">
+        <footer class="container-fluid px-5 footer-section pt-1 pb-3">
             <div>
                 <div class="row">
                     <div class="col-sm-12">
