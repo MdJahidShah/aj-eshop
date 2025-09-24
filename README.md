@@ -50,7 +50,7 @@ Since AJ eShop is distributed via **GitHub**, you’ll need to download and inst
 
 ### Manual Installation via WordPress Dashboard:
 
-1. Go to the [AJ eShop GitHub Releases](https://github.com/mdjahidshah/aj-eshop/releases/latest/download/aj-square.zip).
+1. Go to the [AJ eShop GitHub Releases](https://github.com/MdJahidShah/aj-eshop/releases/download/v1.0.1/aj-eshop.zip).
 2. Download the **ZIP file** of the latest release.
 3. In your WordPress dashboard, go to **Appearance > Themes > Add New > Upload Theme**.
 4. Upload the downloaded ZIP file.
@@ -58,7 +58,7 @@ Since AJ eShop is distributed via **GitHub**, you’ll need to download and inst
 
 ### Manual Installation via FTP:
 
-1. Download the [AJ eShop theme ZIP file](https://github.com/mdjahidshah/aj-eshop/releases/latest/download/aj-square.zip).
+1. Download the [AJ eShop theme ZIP file](https://github.com/MdJahidShah/aj-eshop/releases/download/v1.0.1/aj-eshop.zip).
 2. Unzip the file on your local computer.
 3. Upload the folder to `/wp-content/themes/` on your server.
 4. Go to your WordPress dashboard and activate the theme under **Appearance > Themes**.
